@@ -89,7 +89,7 @@ CloudFlare will never log your IP address (the way other companies identify you)
 - 2606:4700:4700::1111 (IPv6)
 - 2606:4700:4700::1001 (IPv6)
 
-[More information on Cloudflare DNS](https://cloudflare-dns.com/dns/#explanation)
+[More information on Cloudflare DNS](https://cloudflare-dns.com/dns/#explanation) and on [1.1.1.1 for families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/).
 
 ### Custom
 
